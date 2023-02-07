@@ -1,0 +1,7 @@
+<div class="f-items">Microsoft</div>
+<div class="f-items">365</div>
+<div class="f-items">Teams</div>
+<div class="f-items">Windows</div>
+<div class="f-items">Surface</div>
+<div class="f-items">Xbox</div>
+<div class="f-items">Support</div>

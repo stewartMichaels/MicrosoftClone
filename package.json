@@ -1,0 +1,26 @@
+{
+  "name": "microsoftclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewartMichaels/MicrosoftClone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stewartMichaels/MicrosoftClone/issues"
+  },
+  "homepage": "https://github.com/stewartMichaels/MicrosoftClone#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.1.1"
+  }
+}
